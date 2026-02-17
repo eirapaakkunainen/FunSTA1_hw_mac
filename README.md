@@ -32,6 +32,7 @@ These instructions were created specifically for the University of Oulu's course
   2. conda install numpy
   3. conda install matplotlib
   4. conda install scipy
+  5. conda install tk
 
 
 **STEP 5: Try to run a tool inside the virtual environment**
